@@ -1,0 +1,6 @@
+{
+  "name": "Vitrarium",
+  "description": "Interactive 3D Wardian glass terrarium with procedural botanical flora, dynamic day/night illumination, and atmospheric weather simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
